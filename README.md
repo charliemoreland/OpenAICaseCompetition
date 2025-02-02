@@ -2,7 +2,7 @@
 25th Annual Ivy College of Business Internal Case Competition.
 I competed against 9 other teams in a 24 hours Business Strategy Case competition.
 The topic was OpenAI's future business Strategy, my team focused on increasing computing power through reinvestment into MS Azure with current OpenAI partner Microsoft.
-Along with increased computing power, our team developed a Strategic Business Plan to shift focus away from Direct-to-consumer ChatGPT model and focus on B2B adoption through OpenAI's API model.
+Along with increased computing power, our team developed a Strategic Business Plan to shift focus away from Direct-to-consumer ChatGPT model and focus on B2B adoption through OpenAI's API model and Cloud Platform Integration.
 Focusing on increasing revenue through the API's pay per token pricing model. 
 Here are a few of the major slides:
 ![image](https://github.com/user-attachments/assets/c1581337-0d15-4c30-b2a9-bf514d63fc90)
